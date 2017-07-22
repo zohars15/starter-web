@@ -16,4 +16,4 @@ Please fork off
 
 ### Copyright
 
-2017 Git.training
+2017 Git.training All right reseved
