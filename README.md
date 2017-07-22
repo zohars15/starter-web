@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Staged. Adding a line for rebasing example, then
-more changes from myfeature branch too
+Staged. Update a line
 
 ## Purpose
 new line
